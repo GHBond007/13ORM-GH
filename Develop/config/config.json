@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "alex9872",
+    "password": "alex9872",
+    "database": "ecommerce_db",
+    "host": "www.db4free.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "alex9872",
+    "password": "alex9872",
+    "database": "ecommerce_db",
+    "host": "www.db4free.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "alex9872",
+    "password": "alex9872",
+    "database": "ecommerce_db",
+    "host": "www.db4free.net",
+    "dialect": "mysql"
+  }
+}
